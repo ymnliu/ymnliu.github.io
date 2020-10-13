@@ -1,5 +1,3 @@
-## Welcome to Sijia's Home Page
-
 I am  an Informatics Specialist at [Mayo Clinic](https://www.mayoclinic.org/). Previously, I obtained my Ph.D in Computer Science and Enginerring from University at Buffalo working with Dr. [Vipin Chaudhary](https://scholar.google.com/citations?user=vJbjqpIAAAAJ&hl=en).  I received my B.E. in Electrical
 						Engineering from [Beihang University](https://ev.buaa.edu.cn/), and worked as a Research Intern  at [National Laboratory of Pattern Recognition](http://english.ia.cas.cn/au/bi/), Beijing, China. My areas of interest are machine learning applications in natural language processing and medical informatics.
 
